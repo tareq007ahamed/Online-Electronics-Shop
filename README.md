@@ -18,7 +18,7 @@ For API:
 
 ## Home Page
 
-![Capture1](./assets/Capture1.png)
+![Capture1](C:\Users\Tc\Desktop\New folder (2)\assets/Capture1.png)
 
 ##  Cart
 
