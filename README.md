@@ -18,17 +18,17 @@ For API:
 
 ## Home Page
 
-![Capture1](C:/Users/Tc/Desktop/New folder (2)/assets/Capture1.png)
+![Capture1](./images/Capture1.png)
 
 ##  Cart
 
-![Capture2](./assets/Capture2.png)
+![Capture2](./images/Capture2.png)
 
 
 ## Admin login
 
-![Capture3](./assets/Capture3.png)
+![Capture3](./images/Capture3.png)
 
 ## New Item Insert
 
-![Capture4](./assets/Capture4.png)
+![Capture4](./images/Capture4.png)
