@@ -17,19 +17,18 @@ For API:
 * Express
 
 ## Home Page
-![Capture1](./images/Capture1.png)
+![Capture1](images/Capture1.png)
 
-![Capture1](./images/Capture1.png)
 
 ##  Cart
 
-![Capture2](./images/Capture2.png)
+![Capture2](images/Capture2.png)
 
 
 ## Admin login
 
-![Capture3](./images/Capture3.png)
+![Capture3](images/Capture3.png)
 
 ## New Item Insert
 
-![Capture4](./images/Capture4.png)
+![Capture4](images/Capture4.png)
